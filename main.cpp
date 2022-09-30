@@ -1,5 +1,8 @@
 #include<iostream>
 #include<string>
+#include<unordered_map>
+#include"Reflectors.h"
+#include"Rotors.h"
 #include"Settings.h"
 #include"Enigma.h"
 

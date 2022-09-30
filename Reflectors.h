@@ -1,4 +1,10 @@
-const char REFLECTORCONTACTS[4][14] = {
-        {"abcdefgijkmtv"},{"yruhqslpxnozw"},//B Reflector
-        {"abcdeghklmnqs"},{"fvpjioyrzxwtu"} //C Reflector
+const std::unordered_map<std::string, std::string> REFLECTORWIRINGS = {
+        {"A","EJMZALYXVBWFCRQUONTSPIKHGD"}, 
+        {"B","YRUHQSLDPXNGOKMIEBFZCWVJAT"},
+        {"C","FVPJIAOYEDRZXWGCTKUQSBNMHL"},
+        {"BTHIN","ENKQAUYWJICOPBLMDXZVFTHRGS"},
+        {"CTHIN","RDOBJNTKVEHMLFCWZAXGYIPSUQ"},
+        {"BETA","LEYJVCNIXWPBQMDRTAKZGFUHOS"},
+        {"GAMMA","FSOKANUERHMBTIYCWLQPZXVGJD"},
+        {"ETW","ABCDEFGHIJKLMNOPQRSTUVWXYZ"}
 };
